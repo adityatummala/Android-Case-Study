@@ -1,0 +1,18 @@
+
+You have been given an proof-of-concept Android project developed by a junior Android developer that displays a list of deals in Target stores. The goal of the app is to display a list of deals currently offered by Target, and to provide information on those deals. As a POC, the app just has a few deals hardcoded in and the code is pretty rough. It is your job to turn this app into something useful!
+
+1. Fix up the deals list to (as best as you can) match the mockups shown in DealsList.png.
+2. Instead of displaying an alert when a deal is selected, instead present a new view that displays details on the view. Use the mockups shown in DealsDetails.png.
+3. The deals are currently hardcoded. Use the API at https://target-deals.herokuapp.com to grab the real deals to display in the app.
+4. Do something interesting! Add something to the app you think can really make it fun to use. 
+
+Some guidelines:
+- Feel free to use any open source software you feel helps development. Treat this app as something you control technically.
+- Do your best to follow modern Android conventions and write clean, performant, and extensible code. Imagine that this app will continue to grow.
+- Be sure the app looks great on a variety of phone screen sizes!
+
+Suggestions for optional exploration:
+- This app was targeted at API level 19. What exciting options become available by updating it to target API level 24?
+- This app is focused at phones primarily, but is a prime candidate for a flexible design that would intelligently expand for tablets.
+- The initial screen is a list view. How would you implement a toggle for grid view and what would that grid view look like?
+- Ignore these suggestions and find your own inspiration.
