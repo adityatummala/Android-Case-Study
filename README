@@ -7,7 +7,7 @@ You have been given an proof-of-concept Android project developed by a junior An
 4. Do something interesting! Add something to the app you think can really make it fun to use. 
 
 Some guidelines:
-- Feel free to use any open source software you feel helps development. Treat this app as something you control technically.
+- Preferred language is Kotlin but feel free to use any open source software you feel helps development. Treat this app as something you control technically.
 - Do your best to follow modern Android conventions and write clean, performant, and extensible code. Imagine that this app will continue to grow.
 - Be sure the app looks great on a variety of phone screen sizes!
 
